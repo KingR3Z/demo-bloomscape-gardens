@@ -79,8 +79,8 @@ export const client = {
 
   // Reviews — placeholder
   reviews: [
-    { name: "Kristin Johnston", rating: 5, text: "Gary was very friendly & professional explain what he was doing all the way through job He stayed and finished the job when it was raining …  ", date: "2 months ago" },
-    { name: "mark lee", rating: 5, text: "Great service and price. Highly recommended. ", date: "2 months ago" },
+    { name: "Kristin Johnston", rating: 5, text: "Gary was very friendly & professional explain what he was doing all the way through job He stayed and finished the job when it was raining Really pleased with fence would use again and highly recommended Thank you", date: "2 months ago" },
+    { name: "mark lee", rating: 5, text: "Great service and price. Highly recommended.", date: "2 months ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
 
   // SEO
